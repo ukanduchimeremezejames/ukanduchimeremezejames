@@ -3,8 +3,8 @@
 
 <!-- Web3.0 Software Engineer  with experience in Tech running close to a decade, passionate in Frontend Web Development, with Figma Website Design and ReactJS/NextJS and VueJS Javascript Frameworks,  and I am currently enthusiastic for Web3.0 UI Development. " -->
 </h3>
-<p align="left"> <img src="https://avatars.githubusercontent.com/u/245381664?v=4" alt="Ukandu Chimeremeze James" /> </p>
-<p align="left"> <img src="https://avatars.githubusercontent.com/u/245381664?v=4" alt="Ukandu Chimeremeze James" /> </p>
+<p align="left" width="100%"> <img src="https://avatars.githubusercontent.com/u/245381664?v=4" alt="Ukandu Chimeremeze James" /> </p>
+<p align="left"> <img src="https://media.licdn.com/dms/image/v2/D5635AQGFggEgzFHGbg/profile-framedphoto-shrink_400_400/B56ZwFUFi9IcAc-/0/1769615677923?e=1770382800&v=beta&t=CUqtCSKhuRRulHOJG9NvMirD-xsSr3TrzX92_mJRWCA" alt="Ukandu Chimeremeze James" /> </p>
 
  
 
