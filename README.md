@@ -21,7 +21,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <!--  <a href="https://twitter.com/ukanduchimeremezejames" target="blank"><img align="center" src="https://raw.githubusercontent.com/ukanduchimeremezejames/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ukanduchimeremezejames" height="30" width="40" /></a> -->
-<a href="https://www.linkedin.com/in/ukandu-chimeremeze-james-83b57a2b3/" target="blank"><img align="center" style="border-radius: 50px" src="https://media.licdn.com/dms/image/v2/D5635AQGFggEgzFHGbg/profile-framedphoto-shrink_400_400/B56ZwFUFi9IcAc-/0/1769615677923?e=1770382800&v=beta&t=CUqtCSKhuRRulHOJG9NvMirD-xsSr3TrzX92_mJRWCA" alt="https://www.linkedin.com/in/ukandu-chimeremeze-james-83b57a2b3/" height="50" width="50" /> <strong>LinkedIn: </strong> <u>@ Ukandu Chimeremeze James</u></a>
+<a href="https://www.linkedin.com/in/ukandu-chimeremeze-james-83b57a2b3/" target="blank"><img align="center" style="border-radius: 50px;" src="https://media.licdn.com/dms/image/v2/D5635AQGFggEgzFHGbg/profile-framedphoto-shrink_400_400/B56ZwFUFi9IcAc-/0/1769615677923?e=1770382800&v=beta&t=CUqtCSKhuRRulHOJG9NvMirD-xsSr3TrzX92_mJRWCA" alt="https://www.linkedin.com/in/ukandu-chimeremeze-james-83b57a2b3/" height="30" width="30" /> <strong>LinkedIn: </strong> <u>@ Ukandu Chimeremeze James</u></a>
 </p>
 
 
